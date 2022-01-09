@@ -1,8 +1,5 @@
 ## Olá! Sou o Wefferson Gama.
 
-- Atualmente trabalho como Full Stack Developer.
-- Estou focando minhas energias na stack de Ruby com também no Rails.
-
 <div>
   <a href="https://github.com/WeffersonGama">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WeffersonGama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
